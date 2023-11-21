@@ -1,0 +1,26 @@
+{
+  "name": "Brian Baker",
+  "age": 22,
+  "address": {
+    "street": "Hopij Plaza",
+    "city": "Fusiem",
+    "state": "LA",
+    "zip": "46623"
+  },
+  "contact": {
+    "phone": "(905) 993-2613",
+    "servicePhone": "800746833"
+  },
+  "birthday": "1985-06-30T09:32:11.878Z",
+  "ip": "189.71.41.98",
+  "foo": "bar",
+  "profile": {
+    "about": "Boesaton nam pof aru saugowi bire ihjovpu tib degov mibubik cefmeliz jukalejo ejwa mu. Ibo saekece sujot osijamic wesu utaseip fa koktah jisu mujmucab inago losbopid ki ijnohgo. Lehhekwu vumhe pig muc eljo caw zu goivi zi gaj humazit sagubuv. Kij jicsehej gal co li kirza ocuce gomejvi zivohej pigigni zet dul pu katkum tisa. Volutna ilitevo zow li cib ef uwarihud sase zo zific bod dibmohhir ri we huvoan os hukmoh jip.",
+    "bio": "Kup micajna haz dooputi juksiwoh fid tu loipiko poji netodi ta mumi gocfog ce. Nudipu veze jitmek rihzi da sac cepda naabso jobnalip pekaw tihik lojolti re ako pibun huchagdid la. Je pijaef soc nedihud ihogejar bekkut ehe bacub du bupeju gudun de. Egtu bihduleju nezuru fa doz duoceol dicu ja cuv pusgugil tagdeow lib jegicnil ikduv ivado va banpum. Hiwid mekhun fu kudoto zimo lu lumpobjal jiibbah loh ki ehmuev ocge jewov jesjeg gimovi ivegam zuzgidu gezrobza."
+  },
+  "apiKey": "7bc7ee15d97f6180889f7585988d8200514be1f8771b98e238845a30d818cec6",
+  "currency": {
+    "code": "XDR",
+    "name": "International Monetary Fund (IMF) Special Drawing Rights"
+  }
+}
