@@ -1,0 +1,26 @@
+{
+  "name": "Joel Gibson",
+  "age": 24,
+  "address": {
+    "street": "Fuzro Park",
+    "city": "Giiwiew",
+    "state": "HI",
+    "zip": "58194"
+  },
+  "contact": {
+    "phone": "(423) 434-2235",
+    "servicePhone": "800686643"
+  },
+  "birthday": "1972-12-05T13:09:22.209Z",
+  "ip": "47.163.211.133",
+  "foo": "bar",
+  "profile": {
+    "about": "Dar cage cehonma za musru ewe git ihetiric vuolopi gukseb nusomat uhlag os. Bikipvov baswussiv no bujumi bat nedechij ik viwituw cari ik gac dac. Fukeg rov bemtouf zo ejhul zebir gu uruumupum zuwbaoru mig idadiw ogewag lepom pa tertis hon.",
+    "bio": "Geko gum ipoiho er fezwu ibwuk ozsoz wabebut le najre ib mappalki. Enencer olzajo ur viske wuwta culez je recmajot zogziw darvepu la uvu fouf osazu. Vo zi cutraw hul ruhumihal repudmig achubeda komiur mawala ji vut hi zewurji taguna. Ufabook zubonte zu ef fa sowoot gikiju wutsefmol abuti guk mulke gomavvul nuvharsa ige ewepioj. Hamhedri ugakouv guchohi jidlim voj denajhet zicpuvfi ijsir hotauli amsa kohhiv ke nojgardu do zus witap soviro."
+  },
+  "apiKey": "87ff30950ad9a6c0be7456c59ddb62def17d37e5ab1d65081015bf4d199812c9",
+  "currency": {
+    "code": "JPY",
+    "name": "Japan Yen"
+  }
+}
