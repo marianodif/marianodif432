@@ -1,0 +1,26 @@
+{
+  "name": "Emilie Fisher",
+  "age": 30,
+  "address": {
+    "street": "Lisre Path",
+    "city": "Pabeju",
+    "state": "IN",
+    "zip": "79668"
+  },
+  "contact": {
+    "phone": "(481) 903-2551",
+    "servicePhone": "800573328"
+  },
+  "birthday": "1998-08-25T02:18:42.522Z",
+  "ip": "164.166.223.5",
+  "foo": "bar",
+  "profile": {
+    "about": "Tunejoru liritli huubeif or zetak ved ce iraciwka lucedre ruupi jewemwi ped po. Liful uwajap dabat ebir kib gij uvmusbo ewocahoz hokpup paluw bu gukiw ad ebadwa. Wuzaw obko ajetbes ef nactol fuvmujam oneowdir ecwit mabceb lut wim devowfo.",
+    "bio": "Wefib rovmuvow bum giv ogupaoni ona basso ozadazma tojuswoc gotlo cuv ubulig lo osemewwir zinamda. Vaceik daf sutuuze iwoh kegiji hubodi ladro geul to wapew sac telac. Ric nozheviro obo nihkolbo pab fofnuje nov muecu zudbu idojopuj tijjud duasuwu zit sibede utopisu buplif jej upu."
+  },
+  "apiKey": "2c3f978f1911df23b8ec57ce7fc197943fcfe6929c4c6f23eaf13e0cc0506474",
+  "currency": {
+    "code": "JOD",
+    "name": "Jordan Dinar"
+  }
+}
