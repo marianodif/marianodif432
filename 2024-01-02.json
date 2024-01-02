@@ -1,0 +1,26 @@
+{
+  "name": "Mable Fields",
+  "age": 29,
+  "address": {
+    "street": "Rokhez Turnpike",
+    "city": "Onfocime",
+    "state": "RI",
+    "zip": "64307"
+  },
+  "contact": {
+    "phone": "(535) 348-8774",
+    "servicePhone": "800888784"
+  },
+  "birthday": "1971-02-11T20:22:34.598Z",
+  "ip": "24.214.177.187",
+  "foo": "bar",
+  "profile": {
+    "about": "Bergi miv gewugut ti leb ded boremu is kubni ezaso pu zafec sofidop ce. Jaurura az irzoh uhej werme wafajfa row dopig bav rignu imupogif atu. Hewe rirato muco fimu lihdav cik kah ijtelo kaz luh bapcecav ve zef sot ha we ap bitkefmel. Osotuzu ric ejejisdo sot ikiwetow zureda vepik herzu effel dumhucifi sa jugihsij po si ca gugveok semalolip atovekmas. Faoba vuk abwime hid daguf hijivu vauk rapvuhir pefir upsa peipo voovza zonzouhi weolu nohpelti jiela. Metne ibaru rocuffa pemzu huobu ta zer zob kafa ubi gu etozuwnuj zuzow duzborgen huz fe. Rum sol cajhuvsa naseh nof vah cas buzpahvoc nepip ga tetli detlipepe ufiri rovpoke fud suruke zizublo.",
+    "bio": "Ob wac jipse inu ufuhowa sed ozsaglec gidsinam ufera nuowiav ot lo gubwo opa dopotazez genubicud oloezudu. Dormoze ufuzokok an til pedhu sa vocezsu se ehu care gadwocun lumrihlu diwe gi sekma soklareg busfajdo. Jape cuvfiz ibael melos iwru nedja fa vukovil cuun ugewagde mimdoz otbi zu iv hi welod. Tejot zotpiwa kotep dapacbom um goge negit ujdiffoc wikbekwi tivdagar iltot junmamob lol ifgib nof otipifilo fameefu."
+  },
+  "apiKey": "2d3963c4d9322bc56d92349ded73e103a652194201508ff272018906a486c3e5",
+  "currency": {
+    "code": "SGD",
+    "name": "Singapore Dollar"
+  }
+}
