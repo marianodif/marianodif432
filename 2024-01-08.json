@@ -1,0 +1,26 @@
+{
+  "name": "Virgie Kim",
+  "age": 54,
+  "address": {
+    "street": "Wire Court",
+    "city": "Jawafel",
+    "state": "NY",
+    "zip": "42512"
+  },
+  "contact": {
+    "phone": "(968) 601-7850",
+    "servicePhone": "800928741"
+  },
+  "birthday": "1968-05-23T01:57:03.876Z",
+  "ip": "252.81.111.66",
+  "foo": "bar",
+  "profile": {
+    "about": "Ba pesuznaz novozo geprano je owricu biwdafzo ajowoc razveje pockegic si raumeuw aro vo boz lemoz wokin. Kazus vuelgi gabgiifa sa ajeeko re herodegin ulujavid ro peknij efmal zutut kednub giwha savtitbil hu taepapi cagdaez. Zuev zob faw aragoj ih sug tipkugen ubzavip gimefe ulahamjog pij uhgaos do ekenocmup iza bal. Gep boszuv nofihe barufze rurzo jatrelcoc zen kelih lineca sum jaje za.",
+    "bio": "Cispid sedahma hakelzej do venupu neflewo valuguw co muirfo ponzet ecumarag dodu. Misuk zi puljaw jikci noinin iwzefe bosona nuzolane evaob opherrik solfec ce. Cubez wukop asukoc guepa afcegi vudpuz nefjineme ucto ju lithuhi ji emo gic pumed."
+  },
+  "apiKey": "8b4b04c4f856bb7b9e6483b31d00fa7554e5ba672e36282d51c2a64d9f28dd5c",
+  "currency": {
+    "code": "MDL",
+    "name": "Moldova Leu"
+  }
+}
