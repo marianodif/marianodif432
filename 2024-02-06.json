@@ -1,0 +1,26 @@
+{
+  "name": "Bryan Burgess",
+  "age": 23,
+  "address": {
+    "street": "Fuhed Heights",
+    "city": "Cadajo",
+    "state": "AZ",
+    "zip": "57953"
+  },
+  "contact": {
+    "phone": "(960) 656-7823",
+    "servicePhone": "800993147"
+  },
+  "birthday": "1980-10-22T05:47:02.037Z",
+  "ip": "116.101.244.134",
+  "foo": "bar",
+  "profile": {
+    "about": "Ev zaglajo lejufhiz serurtaw cej ci ak pomonva boire ubawuptic mofeh cuk id. Bufu zenoh bostiusa caav sicrosve jonu moketup gehohi kofjuv vagjirli rik nod. Tuwlud nugra pejip je wufre jokal wujnidsut neiw gemjuejo lig jig vihol mufahtuw sofhow fegwizlaf kim. Wecuuzo zapnardop donamuivo du ude ola lude uni lonvah hipuborit uvehep leser fohufer.",
+    "bio": "Er wid asitofib rutasguj avu gulgatlig ki ukbo ruzewi ka renjek firivke ekativ rusojtob fojdej. Isu wihaz raaja za elpufos zov ogla vemfokra nohdon gaklew woombu hisu we babe wufeje. Ma ge sarit gudla ve bogma nofu foswabisa dol pul datac kot amiturok amobi."
+  },
+  "apiKey": "54f948243cf5a847cdfc91e93cd6b88bca1911996829043de10f24741aee317c",
+  "currency": {
+    "code": "LTL",
+    "name": "Lithuania Litas"
+  }
+}
