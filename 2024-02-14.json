@@ -1,0 +1,26 @@
+{
+  "name": "Matthew Lambert",
+  "age": 40,
+  "address": {
+    "street": "Powgec Pass",
+    "city": "Kibusewe",
+    "state": "CA",
+    "zip": "07468"
+  },
+  "contact": {
+    "phone": "(525) 323-5062",
+    "servicePhone": "800389737"
+  },
+  "birthday": "1988-06-20T23:42:05.769Z",
+  "ip": "193.147.225.57",
+  "foo": "bar",
+  "profile": {
+    "about": "Okwog luhha fa nar efagi gojozaf gep ehosu emi se bejudca vevoaw zo sej woppe ciazmof. Tiwew zofdep ereozaij gibsowum overu kier uc hapivdoh fuheh ji decos somkunojo julvov wim zolite hetum. Welumi toti ti vibja akrohwi we ti zarob heb ikelac lo fa tauh. Tejeteba moakhep gi umikumgu ewizih fu apavazol nomsowho uldi zow rokre odammil foganim porgap gefebo ava efgo ijkuz.",
+    "bio": "Zufseg ejjidru idpihci dopiuf za nela avoak vuwbev suaggif enmean wu zafonza nemdow piarvam wifder bo. Soc fa ub vekak gujub cetfu mo mi irotejub gain nocwakeg fu vikta. Hoes guur kaveduj jujga re hohe pij rehhodvo na hirud pa namadti tojpo de ri fuobafud. Tafbawnus denzo lapol wouf giku sohebma re pate uto etpi tonirwur akmujpel. Cofa gadmisbez ofnih fagfij rafo kuelimod daanini vioz cogba cenrifa reg rar udiko bad siv wi zobiogo."
+  },
+  "apiKey": "79fc69a8b83a210553a44153fa85f1781b46e89631fb97d1f3ef0fb22ca645b0",
+  "currency": {
+    "code": "XAF",
+    "name": "Communauté Financière Africaine (BEAC) CFA Franc BEAC"
+  }
+}
