@@ -1,0 +1,26 @@
+{
+  "name": "Ruby Patterson",
+  "age": 57,
+  "address": {
+    "street": "Cidde Boulevard",
+    "city": "Jubtagce",
+    "state": "NM",
+    "zip": "16253"
+  },
+  "contact": {
+    "phone": "(658) 593-7178",
+    "servicePhone": "800982112"
+  },
+  "birthday": "1998-08-02T12:40:39.357Z",
+  "ip": "126.62.242.47",
+  "foo": "bar",
+  "profile": {
+    "about": "Kazgeh pu inmu witpop kuj din felecbof wamvi osiva page apuhovca di kek nu giljeuc hulzip giwirul halafkic. Azopudca hiusu le rico zafsidkaw ku dalowiji ra anahutvu poufcew oguvikfep fuzdajkic. Laebihu woj pawabsa hete gidegbes hawume oppi esopocwu fe mob mi ef fatheco me tetitja iwmortad pigisem kewin. Jitemaf oru pa cad je segu fu led oc uko sipwer do. Luehpac aco da uwe cof wusmob ornumjog uborran gof likhije ciriveb dip. Jucib sagrizabu ov zef ogima fuedifa harisav nomnu gu vev keswig omiokba owu. Rejev geag acgovwe fekaf pila ibara tihno ok mubkahis cahew nu wabju vo pe.",
+    "bio": "Ravudlo ko wakiure wu ga molah it okbef ac goniuwu deh bo lo repevi edmiahe dimon wiw ovlo. Miaz jonnakov ehepuc gawuc okmur zojja ze hok aljati tuji nacorab rezwalim. Mut daenapa fin nefpa sawalwo dujfukso advudipi cebipual la kita izer bocufiw rozic faulmuw ranbat zafa kupbug rekmubij."
+  },
+  "apiKey": "c44609712c93b4ecc37245d5219896cc6e96df241c835504400b1d19d103f8e8",
+  "currency": {
+    "code": "JPY",
+    "name": "Japan Yen"
+  }
+}
