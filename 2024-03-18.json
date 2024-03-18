@@ -1,0 +1,26 @@
+{
+  "name": "Ronald Higgins",
+  "age": 47,
+  "address": {
+    "street": "Owif Way",
+    "city": "Wiiwito",
+    "state": "LA",
+    "zip": "41010"
+  },
+  "contact": {
+    "phone": "(646) 881-1202",
+    "servicePhone": "800122578"
+  },
+  "birthday": "1966-10-03T06:54:30.056Z",
+  "ip": "69.136.246.180",
+  "foo": "bar",
+  "profile": {
+    "about": "Madil lotjik kevwewe kico fenbohe sonerso raf umiz lihelu if wevbi avo nu laf. Pujojopi dupkorgi golvo ennelod mifillog adobokom pid jo ded atucagaw tej juh bi ezat hasatehof vu sew. Bogvado unrondab ufeluknu benoum log don akupigu ewozu hafdalzo vakwabogi pi linutwa seumuf cote ru uvtez viv sogbopu.",
+    "bio": "Ih jizi safu ohwohih ba uzgenti zenu bika jisa kiz ojo honva hufe ro tigeiva ihe. Rew ip owcirbo hiuhu vi ritdik pewresfo ra semoh ilin asgat izida ba dewap. Kujasa kozfiso buwawolo sebgu mul ocsi pam ezo fo luvjihwiv lozsor jitwunsi."
+  },
+  "apiKey": "e0e6463c9c7dc70baba83c9eaeb6e0b615abc3fa2259a0ba12e643a8850ef7c3",
+  "currency": {
+    "code": "BTN",
+    "name": "Bhutan Ngultrum"
+  }
+}
