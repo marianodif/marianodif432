@@ -1,0 +1,26 @@
+{
+  "name": "Alan Murphy",
+  "age": 32,
+  "address": {
+    "street": "Vobon Way",
+    "city": "Henvobatu",
+    "state": "MI",
+    "zip": "85650"
+  },
+  "contact": {
+    "phone": "(452) 436-4672",
+    "servicePhone": "800891166"
+  },
+  "birthday": "1997-12-02T10:50:48.396Z",
+  "ip": "226.175.232.229",
+  "foo": "bar",
+  "profile": {
+    "about": "Neswevza huze buwiz ollaep meva lukra bouho re jipto dawe pecucu mazica zat pej li sakzipuk sofej wizugel. Nov libuled sugeziz towegmab riszadev dej fo kewoemu omifa nalfif kuktodziw zo. Hauf ife cofegno hezulri gusone ler de zup huc wuwsoza riku bowo rognu zuome zerpeziv recsim. Ju mehi mekidur ijcekal cejic sabiv kawtaev elnaico deh ji jauz tur rehemudot pubamse.",
+    "bio": "Guvo dal dem guvidwev favmozpo baeho bo uta ig itojen ode jufeluk pajas bajbeani. Nicrougu nitso cuigawut il lemranzi erfola irvumizi sosuhriw tare ciseman cipcuhjul jopihoeg vupa male wi kumpupde ne voctof. Hacziz gaja du kesij nujojce ceejerun vevcioz kojivzuv cothol juvjag za oze seto redha. Edmod af bilfa zokzovop cevwaneri fone jeco sezgipa tuhmesu ruav ala kohagbut pofakjaj fo okmatu ba ate sofofba. Tujma hogmer dongekfen diripka uniheinu cotbi ude cacbobfaf fodiz divubizad mu uv rajirsu tu ow peli owodipvuc."
+  },
+  "apiKey": "b98eef319ef5440904575131125ad26a3a99767c601b195a57ef635f5519bf89",
+  "currency": {
+    "code": "KHR",
+    "name": "Cambodia Riel"
+  }
+}
