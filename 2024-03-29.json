@@ -1,0 +1,26 @@
+{
+  "name": "Zachary Gibbs",
+  "age": 54,
+  "address": {
+    "street": "Gefes Circle",
+    "city": "Tijnurwi",
+    "state": "VA",
+    "zip": "15990"
+  },
+  "contact": {
+    "phone": "(717) 227-3178",
+    "servicePhone": "800692553"
+  },
+  "birthday": "2006-06-25T17:34:50.401Z",
+  "ip": "251.135.155.132",
+  "foo": "bar",
+  "profile": {
+    "about": "Duuwifi gukepga oj fekedwat koladgo fojunfo gomsi sumuza po ozi binetul cun waw tuw dooba. Kar hejilo mirbireh nuogoze ak elipeba atdunifo pinotev vo lu ge tif tufof kesopzo fifo magoljo ed. Rifutwog nol paw hukrini tijulid bifi ogu mam rusmezwiw fammupava paw venreabi ishignaj ceom gov ja.",
+    "bio": "Sir ilputlin udo dudo giteglez efsef ipda izfozpaw guiludef of zeztuh av pal goh ugifurna ci nuuciliv. Moji ke son uwwud emkuvig wumibje sabenmag tih jotiobo givinop botuvar usinambi. Kadzajem noclafu jevvos wig kokliwki hujgu ke ta azaaf ume oc ta nopmip zifawiw."
+  },
+  "apiKey": "e6a59763ff31c97cf2abdaf156f3ff198720713f33a632b9ad5e1a49300286e4",
+  "currency": {
+    "code": "BSD",
+    "name": "Bahamas Dollar"
+  }
+}
