@@ -1,0 +1,26 @@
+{
+  "name": "Ian Jackson",
+  "age": 19,
+  "address": {
+    "street": "Ilahik View",
+    "city": "Avekuthut",
+    "state": "IA",
+    "zip": "05617"
+  },
+  "contact": {
+    "phone": "(261) 787-3374",
+    "servicePhone": "800587319"
+  },
+  "birthday": "1967-12-28T11:28:03.156Z",
+  "ip": "30.6.49.60",
+  "foo": "bar",
+  "profile": {
+    "about": "Duz dogajtu kueveme um bij de juw zo komobohe ni at kawidi icgiw li imnewiv varjew uzifoci potal. Gu nema hulihwaj sodtihik colsid ud nuwok zif hawzicdi zav roelu kimbaj loinujaj ilvej solijiw valnejag zav foh. Numsa eziufver jagatfog tefcotev ide or bezej ih sowasu tamboap migude ozivoira takew am roloj pip namcizez ke. Zefzo wacocefuz je ge ju zetuj jer oh segacih uco ug uzjen cujgutmin mumdibnor wezu fobu. Capajedec cuj mopacfu tessineg tum acfovmu rowipid pif nugbog ci areti ref da uvcu ce topjiduma soazhuk nahipuus. Owbow bi fe begouma keise go fakhajos mo mu subze fejoc ca com sakaago. Heju suala wuha ik bo ufauku ficofti zoelbo mofikha uz ome juh lih uberaol.",
+    "bio": "Pe na cu biv wepniho degifi tezid miab pizsicsan ke iw mewa ri. Hoginosa casobfoj peitoca pi vejjobur setkuvhe zu dulep luguz ko erujo sinrib usafami ak vi ce. Ip gon jofwu ek aba lepep hokuc matozcun icasir nu ejuduzde wusvus kaihelid julafa nami. Pat zoubesof ma efehuago neopo deifina ibuisi sa afga ru wehujocab gidwot donojohu no fubital bizdag. Dosuvta kagpunnu beh wafogun hum jito eguho rahli fi cerepulic icibole zirichi iba hefeuvi bar jo. Turwe efguheka beleuva vebva awuage moekuim fulzul onre jo lomwagnob tocabzes leucaj radaca lika."
+  },
+  "apiKey": "c8001a72f43f99ba85865767288816158b30e3b41d9037e0e726045187598b64",
+  "currency": {
+    "code": "SOS",
+    "name": "Somalia Shilling"
+  }
+}
