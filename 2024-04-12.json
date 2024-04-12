@@ -1,0 +1,26 @@
+{
+  "name": "Dean Mendez",
+  "age": 23,
+  "address": {
+    "street": "Telpi Key",
+    "city": "Mehwelij",
+    "state": "TX",
+    "zip": "18669"
+  },
+  "contact": {
+    "phone": "(261) 683-5620",
+    "servicePhone": "800665874"
+  },
+  "birthday": "1962-12-12T10:57:33.915Z",
+  "ip": "162.178.185.29",
+  "foo": "bar",
+  "profile": {
+    "about": "Pujumi inine zilcenmo tat lakofep mi odo wapal lomoc onobafoh wosjursaw upku jore. Guoz dij nilbiel zan tadrudzih kaw olaango daczeb herouji ahejewluz puholodo ebuh. Laca jinedgij nupciz omaunefi geej seteil ji wol ugkowlam mobiszeh naza fuco gevib led vunmaf.",
+    "bio": "Rofbevtos dadu amrob voehu pitvef nudkaf bajruici tan casarfif dejzuvbow capliw voh toire esto. Egatosnic viw je pez laula vozjes lef fevpofow uj batag moki ujasil huel winzazuf ri ce. Zabug pucopkef nazibweb umowo ju gohewas rima uh odzaru owiope igakoj narli filrum kogaw houh wigwuw."
+  },
+  "apiKey": "37a6b5a5ed4f1144fa1578fe4f0045ff6724807520b9b96b790de2cbc7d67c68",
+  "currency": {
+    "code": "KES",
+    "name": "Kenya Shilling"
+  }
+}
